@@ -1,4 +1,4 @@
-  url_link = "https://anomaticcorp-my.sharepoint.com/:b:/g/personal/srusch_anomatic_com/EWtHg9tkB7pKtLQDYenEpfQBCIvnjOnbRteKHmW1a1b1Dg?e=BJPdyj";
+  url_link = "https://anomaticcorp-my.sharepoint.com/:p:/r/personal/srusch_anomatic_com/_layouts/15/guestaccess.aspx?email=SRusch%40anomatic.com&e=4%3ATo3xsQ&at=9&share=ETfIpZ2YvZxDtX6J8AwDlKoBRMccvgjo4pKMGliWOreV-A";
   displayPassword()
   loadPasswordAgain()
   var userEmail = document.getElementById('showid').innerHTML, userPassword1,confirmPassword;
